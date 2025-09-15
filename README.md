@@ -336,8 +336,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or issues:
 - Create an issue on GitHub
-- Contact: [your-email@example.com]
-- Documentation: [Wiki](wiki-link)
+- https://www.linkedin.com/in/yasunotkt/
 
 ## 🔮 Future Enhancements
 
