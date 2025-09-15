@@ -1,0 +1,19 @@
+{
+  "timestamp": "2025-09-15T18:49:35.052841",
+  "region": "North America",
+  "total_samples": 20000,
+  "quality_score": 0.6717643144280253,
+  "clustering": {
+    "quality_score": 0.6717643144280253,
+    "selected_method": "FAISS k-means",
+    "method_reason": "",
+    "n_clusters": 15,
+    "noise_ratio": 0.0
+  },
+  "feature_analysis_summary": {
+    "total_clusters": 15,
+    "geographic_distribution": 15,
+    "temporal_patterns": 15
+  },
+  "config_used": "config_north_america_firms.json"
+}
